@@ -1,3 +1,16 @@
+"""Analyzing College Major vs Salary dataset
+
+This 'script' analyzes a college major vs salary dataset to answer questions such as:
+    Which college majors start with the higher/lower salary?
+    Which college majors have the highest/lowest mid-career salary?
+    Which college majors are the lowest risk?
+    Which category of degrees have the highest/lowest salary?
+
+This script requires that 'pandas' be installed within the Python
+environment you are running this script in.
+
+"""
+
 #!/usr/bin/env python
 # coding: utf-8
 
